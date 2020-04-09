@@ -5,3 +5,5 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Monty-Hall: Simulamos o problema de Monty-Hall.
 * Apostador: O problema do apostador no jogo de dados.
 * Esperanca: exemplos relacianados ao cálculo do valor esperado.
+* Distribuição Binomial.
+* Distribuição de Poisson e Lei dos eventos rados.
