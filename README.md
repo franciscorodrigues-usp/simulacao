@@ -7,3 +7,5 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Esperanca: exemplos relacianados ao cálculo do valor esperado.
 * Distribuição Binomial.
 * Distribuição de Poisson e Lei dos eventos rados.
+* Distribuição Geométrica.
+* Distribuição Hipergeométrica.
