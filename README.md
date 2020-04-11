@@ -9,3 +9,12 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Distribuição de Poisson e Lei dos eventos rados.
 * Distribuição Geométrica.
 * Distribuição Hipergeométrica.
+
+# Aulas Online
+
+Para acompanhar o repositório, sugiro que assistam as aulas abaixo:
+* O problema de Monty Hall: https://www.youtube.com/watch?v=q8f9HeUaPbE&t=4s
+* O valor esperado: https://www.youtube.com/watch?v=0g9mGVPNnR0
+* Modelos Discretos (Parte 1): Modelo Binomail https://www.youtube.com/watch?v=zKlRBfVGsyM&t=1489s
+* Modelos Discretos (Parte 2): Distribuição de Poisson https://www.youtube.com/watch?v=4b9ShYWAows&t=430s
+* Modelos Discretos (Parte 3): Geométrico, Binomial Negativa e Hipergeométrico https://www.youtube.com/watch?v=Ke9dn-cSXow&t=781s
