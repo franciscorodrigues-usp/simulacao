@@ -24,3 +24,5 @@ Para acompanhar o repositório, sugiro que assistam as aulas abaixo:
 * Modelos Discretos (Parte 2): Distribuição de Poisson https://www.youtube.com/watch?v=4b9ShYWAows&t=430s
 * Modelos Discretos (Parte 3): Geométrico, Binomial Negativa e Hipergeométrico https://www.youtube.com/watch?v=Ke9dn-cSXow&t=781s
 * Teorema Central do Limite: Mostramos que a distribuição da média amostral tende a uma distribuição normal quando aumentamos o tamanho da amostra. https://www.youtube.com/watch?v=QcQz6_93GC4
+
+Outras aulas relacionadas: https://www.youtube.com/franciscorodrigues
