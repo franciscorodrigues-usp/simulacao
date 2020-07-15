@@ -12,6 +12,7 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Teorema Central do Limite.
 * Intervalo de confiança
 * Caminhadas aleatórias em uma dimensão.
+* Processo de Poisson
 
 # Aulas Online
 
@@ -27,5 +28,6 @@ Para acompanhar o repositório, sugiro que assistam as aulas abaixo:
 * Teorema Central do Limite: Mostramos que a distribuição da média amostral tende a uma distribuição normal quando aumentamos o tamanho da amostra. https://www.youtube.com/watch?v=QcQz6_93GC4
 * Intervalo de confiança: https://www.youtube.com/watch?v=AkmyfLc-EOs
 * Caminhadas aleatórias: https://www.youtube.com/watch?v=cwhQYqR_Iag
+* Processo de Poisson: https://www.youtube.com/watch?v=R9GfIgNy6_I
 
 Outras aulas relacionadas: https://www.youtube.com/franciscorodrigues
