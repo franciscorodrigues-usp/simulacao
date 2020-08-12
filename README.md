@@ -11,6 +11,7 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Distribuição Hipergeométrica.
 * Teorema Central do Limite.
 * Intervalo de confiança
+* Teste de hipóteses
 * Caminhadas aleatórias em uma dimensão.
 * Processo de Poisson
 
@@ -27,6 +28,7 @@ Para acompanhar o repositório, sugiro que assistam as aulas abaixo:
 * Modelos Discretos (Parte 3): Geométrico, Binomial Negativa e Hipergeométrico https://www.youtube.com/watch?v=Ke9dn-cSXow&t=781s
 * Teorema Central do Limite: Mostramos que a distribuição da média amostral tende a uma distribuição normal quando aumentamos o tamanho da amostra. https://www.youtube.com/watch?v=QcQz6_93GC4
 * Intervalo de confiança: https://www.youtube.com/watch?v=AkmyfLc-EOs
+* Teste de hipóteses: https://www.youtube.com/watch?v=S3V5qJ1bxhk&t=33s
 * Caminhadas aleatórias: https://www.youtube.com/watch?v=cwhQYqR_Iag
 * Processo de Poisson: https://www.youtube.com/watch?v=R9GfIgNy6_I
 
