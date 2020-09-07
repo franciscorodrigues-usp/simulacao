@@ -1,5 +1,4 @@
 # Simulação Estocástica
-<hr>
 Francisco Aparecido Rodrigues, francisco@icmc.usp.br.<br>
 Universidade de São Paulo, São Carlos, Brasil.<br>
 https://sites.icmc.usp.br/francisco <br>
