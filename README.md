@@ -1,5 +1,5 @@
 # Simulação Estocástica
-
+<hr>
 Francisco Aparecido Rodrigues, francisco@icmc.usp.br.<br>
 Universidade de São Paulo, São Carlos, Brasil.<br>
 https://sites.icmc.usp.br/francisco <br>
@@ -10,7 +10,8 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Simulacao: mostramos como simular o lançamento de uma moeda e calcular o valor de pi usando números aleatórios.
 * Monty-Hall: Simulamos o problema de Monty-Hall.
 * Apostador: O problema do apostador no jogo de dados.
-* Esperanca: exemplos relacianados ao cálculo do valor esperado.
+* Esperança: exemplos relacianados ao cálculo do valor esperado.
+* Esperança condicional: exemplo do cálculo da esperança condiciona.
 * Distribuição Binomial.
 * Distribuição de Poisson e Lei dos eventos rados.
 * Distribuição Geométrica.
