@@ -10,7 +10,7 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Monty-Hall: Simulamos o problema de Monty-Hall.
 * Apostador: O problema do apostador no jogo de dados.
 * Esperança: exemplos relacianados ao cálculo do valor esperado.
-* Esperança condicional: exemplo do cálculo da esperança condiciona.
+* Esperança condicional: exemplo do cálculo da esperança condicional.
 * Distribuição Binomial.
 * Distribuição de Poisson e Lei dos eventos rados.
 * Distribuição Geométrica.
