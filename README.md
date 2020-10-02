@@ -5,7 +5,7 @@ https://sites.icmc.usp.br/francisco <br>
 Copyright: Creative Commons
 <hr>
 
-Neste repositório, apresentamos alguns notebooks para simular processos estocásticos em Python. Estão disponíveis os notebooks abaixo. 
+Neste repositório, apresentamos alguns notebooks para simular processos estocásticos em Python, usando o método de Monte Carlo. Estão disponíveis os notebooks abaixo. 
 * Simulacao: mostramos como simular o lançamento de uma moeda e calcular o valor de pi usando números aleatórios.
 * Monty-Hall: Simulamos o problema de Monty-Hall.
 * Apostador: O problema do apostador no jogo de dados.
