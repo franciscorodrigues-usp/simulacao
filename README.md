@@ -19,6 +19,7 @@ Neste repositório, apresentamos alguns notebooks para simular processos estocá
 * Intervalo de confiança
 * Teste de hipóteses
 * Caminhadas aleatórias em uma dimensão.
+* Algoritmo PageRank
 * Processo de Poisson
 
 # Aulas Online
